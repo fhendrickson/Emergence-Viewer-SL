@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Emergence Viewer";
+
+CFBundleShortVersionString = "Emergence Viewer version @VERSION_VIEWER_MAJOR@.@VERSION_VIEWER_MINOR@.@VERSION_VIEWER_PATCH@ (@VERSION_BUILD@)";
+CFBundleGetInfoString = "Emergence Viewer version @VERSION_VIEWER_MAJOR@.@VERSION_VIEWER_MINOR@.@VERSION_VIEWER_PATCH@ (@VERSION_BUILD@), Copyright 2010 Emergence Viewer Team";
+
